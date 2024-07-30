@@ -1,12 +1,14 @@
 {:blocks (
-{:block/content "11:19 test"
+{:block/content "11:19 test\n14:36"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "66a85bbf-6088-418a-a03a-8176adc13efb"}
 :block/parent 
 {:block/uuid #uuid "66a85bbf-6088-418a-a03a-8176adc13efb"}
+:block/properties 
+{}
 :block/uuid #uuid "66a85be4-7e88-4bb0-b94b-97160a9ec913"} 
-{:block/created-at 1722309604378
+{:block/created-at 1722321401235
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -22,7 +24,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 41]
+:size [400 65.00003190154207]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -31,21 +33,21 @@
 :point [192 112]
 :parentId "66a85bbf-6088-418a-a03a-8176adc13efb"
 :collapsedHeight 0
-:nonce 1722309594901}}
-:block/updated-at 1722309604378})
+:nonce 1722309594902}}
+:block/updated-at 1722321401235})
 :pages (
 {:block/uuid #uuid "66a85bbf-6088-418a-a03a-8176adc13efb"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "66a85bbf-6088-418a-a03a-8176adc13efb"
-:name "7.30_github_logseq_test_白板"
+:name "github_logseq_7.30-test_白板"
 :bindings 
 {}
 :nonce 1
 :assets []
 :shapes-index ("977a1630-4e22-11ef-923f-bdcd77e3475d")}}
-:block/updated-at 1722309605398
+:block/updated-at 1722321406686
 :block/created-at 1722309567193
 :block/type "whiteboard"
 :block/name "github_logseq_7.30-test_白板"
