@@ -1,5 +1,5 @@
 {:blocks (
-{:block/content "11:19 test\n14:36"
+{:block/content "11:19 test\n14:36 test"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "66a85bbf-6088-418a-a03a-8176adc13efb"}
@@ -47,7 +47,7 @@
 :nonce 1
 :assets []
 :shapes-index ("977a1630-4e22-11ef-923f-bdcd77e3475d")}}
-:block/updated-at 1722321406686
+:block/updated-at 1722321408554
 :block/created-at 1722309567193
 :block/type "whiteboard"
 :block/name "github_logseq_7.30-test_白板"
