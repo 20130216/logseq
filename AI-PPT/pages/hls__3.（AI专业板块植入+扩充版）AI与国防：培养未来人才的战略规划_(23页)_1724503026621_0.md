@@ -1,0 +1,77 @@
+file:: [3.（AI专业板块植入+扩充版）AI与国防：培养未来人才的战略规划_(23页)_1724503026621_0.pdf](../assets/3.（AI专业板块植入+扩充版）AI与国防：培养未来人才的战略规划_(23页)_1724503026621_0.pdf)
+file-path:: ../assets/3.（AI专业板块植入+扩充版）AI与国防：培养未来人才的战略规划_(23页)_1724503026621_0.pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: red
+  id:: 66c9d461-c84e-482c-90e2-61632ae87e52
+  hl-type:: area
+  hl-stamp:: 1724503132222
+- [:span]
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: red
+  id:: 66c9d47e-5974-405a-812c-25a7d088e65a
+  hl-type:: area
+  hl-stamp:: 1724503166435
+- [:span]
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: red
+  id:: 66c9d4bc-57ce-4280-81ae-3e11cf40494a
+  hl-type:: area
+  hl-stamp:: 1724503228391
+- [:span]
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: red
+  id:: 66c9d56c-3902-4e53-ae4c-1c0c27d46d82
+  hl-type:: area
+  hl-stamp:: 1724503403719
+- - 案例分析：通过具体案例展示如何利用大模型提升知识管理与决策效率。
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: red
+  id:: 66c9d57d-0e2e-496e-b7b2-5fa4c9bccf0b
+- - 案例分析：通过具体案例展示如何利用大模型提升知识管理与决策效率。
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: red
+  id:: 66c9d969-da46-4f3e-8c61-59b41d6a785f
+- - 案例分析：通过具体案例展示如何利用大模型提升知识管理与决策效率。
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: red
+  id:: 66c9d96b-a230-405a-9124-1201a48a1e2b
+- - 案例分析：通过具体案例展示如何利用大模型提升知识管理与决策效率。
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: red
+  id:: 66c9d96f-fbe0-4872-917c-9a14be9be340
+- [:span]
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: red
+  id:: 66c9d975-a654-40d9-a8a8-01783c81c66b
+  hl-type:: area
+  hl-stamp:: 1724504445225
+- 速度
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: red
+  id:: 66c9d988-2e14-4f1d-918c-b8643f0a1dd1
+- [:span]
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: red
+  id:: 66c9d990-c5b9-4487-8de2-acefc5f503eb
+  hl-type:: area
+  hl-stamp:: 1724504463846
+- [:span]
+  ls-type:: annotation
+  hl-page:: 14
+  hl-color:: red
+  id:: 66c9d9ca-1cf0-4002-94ee-9c687c9570bb
+  hl-type:: area
+  hl-stamp:: 1724504522223

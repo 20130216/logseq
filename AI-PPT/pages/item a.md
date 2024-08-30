@@ -1,0 +1,9 @@
+-
+- [[item b]]
+- idea 1 #idea
+	- this is the first line
+	- this is the second line
+		- first point
+- [[idea]] 2 #research
+	- first paragraph
+-
