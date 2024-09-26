@@ -1,4 +1,34 @@
 ## 🔖 文章
+	- [Omnivore 入门 --- Getting Started with Omnivore](https://omnivore.app/me/omnivore-getting-started-with-omnivore-1917cecd3e2)
+	  collapsed:: true
+	  site:: [Omnivore](https://omnivore.app/zhangxinxin0216/getting-started-with-omnivore)
+	  author:: unknown
+	  labels:: [[插件类]]
+	  date-saved:: [[Aug 23rd, 2024]]
+		- ### 高亮
+		  collapsed:: true
+			- > * Saving 储蓄
+			  * Reading 读数
+			  * Organizing 组织
+			  * Integrations 集成 [⤴️](https://omnivore.app/me/omnivore-getting-started-with-omnivore-1917cecd3e2#ce4b3b05-d311-4b9e-bdcc-462d6d7496e6)
+			- > **图书馆**是您 Omnivore 体验的中心 [⤴️](https://omnivore.app/me/omnivore-getting-started-with-omnivore-1917cecd3e2#843cb26a-b673-4a42-afe2-7341c64a2343)
+			- > 从 Mac 存储 PDF [⤴️](https://omnivore.app/me/omnivore-getting-started-with-omnivore-1917cecd3e2#81e8fe5b-a27c-4e36-a2cb-7900a36c1731)
+	- [The Secret Power of ‘Read It Later’ Apps（《哈佛商业评论》最近发表的一篇文章为这种新的神经现象命名：注意力缺陷特质）](https://omnivore.app/me/the-secret-power-of-read-it-later-apps)
+	  collapsed:: true
+	  site:: [Forte Labs](https://fortelabs.co/blog/the-secret-power-of-read-it-later-apps)
+	  author:: Tiago Forte
+	  labels:: [[插件类]]
+	  date-saved:: [[Aug 21st, 2024]]
+	  date-published:: [[Jan 24th, 2022]]
+		- ### 高亮
+		  collapsed:: true
+			- > 安静地坐着并持续引导集中注意力 [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps#577a975d-2a51-4b1b-a893-c61a00af33e7)
+			- > 变得极其稀缺 [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps#e00eb005-313c-46a5-9e06-252e66166db0)
+			- > 阅读能力正在成为世界竞争优势的源泉 [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps#fb149552-6d21-4a21-ba8a-49f7f4a89337)
+			- > 注意力 [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps#685878d3-c8d7-4f52-a0c9-16bfdac4ee12)
+			- > ：注意力缺陷特质 [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps#ac3cc662-2b2f-4ddd-a8bb-bcd2108e298a)
+			- > 《哈佛商业评论》 [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps#1f16f434-4adb-49c7-a772-8556d1c95c23)
+			- > 分心、内心狂热和不耐烦 [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps#70ed8da2-246a-4e77-9a0b-8f7312a3ee5e)
 	- [文心一言](https://omnivore.app/me/-1917df2e673)
 	  collapsed:: true
 	  site:: [yiyan.baidu.com](https://yiyan.baidu.com/chat/4524638783)
@@ -409,6 +439,7 @@
 		  sin(45)
 		  
 		  ```
+			- > Hugging Face 的 Open LLM Leaderboard [⤴️](https://omnivore.app/me/qwen-2-qwen-2-qwen-2-csdn-1917d392cab#dff3c760-6d49-4b22-a724-ecc3fa516f1f)
 -
 -
 -
